@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Skills](#skills)
@@ -17,11 +17,11 @@
 - [Resources & Contributions](#resources--contributions)
 - [Contact](#contact)
 
-## 👨‍💻 About Me
+##  About Me
 
 I am an **AI Developer** with a strong background in **Data Analysis and Machine Learning**. My expertise includes analyzing large datasets, building predictive models, and deploying AI-driven solutions. I am passionate about leveraging AI to solve real-world problems and continuously expanding my knowledge in the field.
 
-## 🚀 Projects
+## Projects
 
 ### 1. Data Analysis & Visualization
 - **[Titanic Dataset Analysis](https://github.com/omarehab15/AI-Data_Science/tree/main/Tasks/Titanic%20Dataset%20Analysis)** – Performed data cleaning, data visualization, and built a dashboard for the Titanic dataset from Kaggle.
@@ -34,7 +34,7 @@ I am an **AI Developer** with a strong background in **Data Analysis and Machine
 ### 3. Machine Learning & AI
 
 
-## 🛠 Skills
+## Skills
 
 - **Programming:** Python  
 - **Web Scraping:** Requests, BeautifulSoup, Selenium  
@@ -43,21 +43,21 @@ I am an **AI Developer** with a strong background in **Data Analysis and Machine
 - **Data Visualization:** Matplotlib, Dash, Streamlit, Seaborn, WordCloud, PyWaffle, Folium, JSON, Geopy  
 - **Version Control:** Git & GitHub  
 
-## 🛠 Tools
+## Tools
 
 - **Data Science & AI:** Jupyter Notebook  
 - **Databases:** MySQL, PostgreSQL  
 
-## 📚 Courses
+## Courses
 
 - **Data Science & Machine Learning** – Hands-on projects covering EDA, feature engineering, and model evaluation.  
 - **SQL for Data Analysis** – Writing complex SQL queries for data extraction and transformation.  
 
-## 🌟 Resources & Contributions
+## Resources & Contributions
 
 - **[GitHub Repositories](https://github.com/omarehab15/AI-Data_Science.git)** – Open-source projects and data science implementations.  
 
-## 📞 Contact
+## Contact
 
 - **LinkedIn:** [Omar Ehab Eid](https://www.linkedin.com/in/omar-ehab-eid)  
 - **Email:** ehab63047@gmail.com  
@@ -65,5 +65,5 @@ I am an **AI Developer** with a strong background in **Data Analysis and Machine
 
 ---
 
-_📌 Feel free to explore my projects and reach out for collaboration! 🚀_
+_ Feel free to explore my projects and reach out for collaboration! _
 
