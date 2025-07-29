@@ -1,8 +1,4 @@
----
 
-## ✨ نموذج `README.md`:
-
-````md
 # 🧠 Data Science Portfolio
 
 This repository contains my hands-on projects and training notebooks in the field of **Data Science**.  
@@ -81,10 +77,10 @@ Feel free to clone the repo and try out the code yourself:
 
 ```bash
 git clone https://github.com/omarehab15/AI-Data_Science.git
-````
+```
 
 ---
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to reach out via [LinkedIn](www.linkedin.com/in/omar-ehab-eid) .
+If you have any questions or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/omar-ehab-eid).
