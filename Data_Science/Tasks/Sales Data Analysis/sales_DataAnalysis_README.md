@@ -48,12 +48,8 @@ The heatmap provides insights into how Sales, Profit, and Discount are related. 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit a pull request. Suggestions for additional analyses or visualizations are welcome!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For questions or feedback, reach out to [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
+For questions or feedback, reach out to [ehab63047@gmail.com](mailto:ehab63047@gmail.com) or open an issue on GitHub.
 
 ---
 
-Let me know if you’d like me to tweak anything (e.g., add more details, change the structure, or translate it back to Arabic)! You can now copy this into a `README.md` file and upload it to GitHub along with your notebook.
